@@ -1,0 +1,306 @@
+body{
+	background-color: #f2f2ff;
+}
+
+#puzzle{
+	width: 600px;
+	height: 400px;
+	margin: 40px;
+	border: 4px solid black;
+
+}
+
+*{
+	font-size: 0;
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	vertical-align: top;
+}
+
+img:nth-of-type(11){
+	position: absolute;
+	top: 96px;
+	display: block;
+}
+
+img:nth-of-type(12){
+	position: absolute;
+	top: 127px;
+	display: block;
+	left: 95px;
+}
+
+img:nth-of-type(13){
+	position: absolute;
+	top: 110px;
+	display: block;
+	left: 177px;
+}
+
+img:nth-of-type(14){
+	position: absolute;
+	top: 136px;
+	display: block;
+	left: 234px;
+}
+
+img:nth-of-type(15){
+	position: absolute;
+	top: 108px;
+	display: block;
+	left: 284px;
+}
+
+img:nth-of-type(16){
+	position: absolute;
+	top: 154px;
+	display: block;
+	left: 358px;
+}
+
+img:nth-of-type(17){
+	position: absolute;
+	top: 170px;
+	display: block;
+	left: 422px;
+}
+
+img:nth-of-type(18){
+	position: absolute;
+	top: 165px;
+	display: block;
+	left: 491px;
+}
+
+img:nth-of-type(19){
+	position: absolute;
+	top: 194px;
+	display: block;
+	left: 557px;
+}
+
+img:nth-of-type(20){
+	position: absolute;
+	top: 173px;
+	display: block;
+	left: 608px;
+}
+
+img:nth-of-type(21){
+	position: absolute;
+	top: 206px;
+	display: block;
+
+}
+
+img:nth-of-type(22){
+	position: absolute;
+	top: 231px;
+	display: block;
+	left: 95px;
+}
+
+img:nth-of-type(23){
+	position: absolute;
+	top: 242px;
+	display: block;
+	left: 177px;
+}
+
+img:nth-of-type(24){
+	position: absolute;
+	top: 252px;
+	display: block;
+	left: 234px;
+}
+
+img:nth-of-type(25){
+	position: absolute;
+	top: 227px;
+	display: block;
+	left: 284px;
+}
+
+img:nth-of-type(26){
+	position: absolute;
+	top: 244px;
+	display: block;
+	left: 358px;
+}
+
+img:nth-of-type(27){
+	position: absolute;
+	top: 233px;
+	display: block;
+	left: 422px;
+}
+
+img:nth-of-type(28){
+	position: absolute;
+	top: 236px;
+	display: block;
+	left: 491px;
+}
+
+img:nth-of-type(29){
+	position: absolute;
+	top: 243px;
+	display: block;
+	left: 557px;
+}
+
+img:nth-of-type(30){
+	position: absolute;
+	top: 233px;
+	display: block;
+	left: 608px;
+}
+
+img:nth-of-type(31){
+	position: absolute;
+	top: 281px;
+	display: block;
+}
+
+img:nth-of-type(32){
+	position: absolute;
+	top: 281px;
+	display: block;
+	left: 120px;
+}
+
+img:nth-of-type(33){
+	position: absolute;
+	top: 281px;
+	display: block;
+	left: 171px;
+}
+
+img:nth-of-type(33){
+	position: absolute;
+	top: 281px;
+	display: block;
+	left: 171px;
+}
+
+img:nth-of-type(34){
+	position: absolute;
+	top: 281px;
+	display: block;
+	left: 226px;
+}
+
+img:nth-of-type(35){
+	position: absolute;
+	top: 281px;
+	display: block;
+	left: 294px;
+}
+
+img:nth-of-type(36){
+	position: absolute;
+	top: 281px;
+	display: block;
+	left: 348px;
+}
+
+img:nth-of-type(37){
+	position: absolute;
+	top: 281px;
+	display: block;
+	left: 409px;
+}
+
+img:nth-of-type(38){
+	position: absolute;
+	top: 281px;
+	display: block;
+	left: 503px;
+}
+
+img:nth-of-type(39){
+	position: absolute;
+	top: 281px;
+	display: block;
+	left: 547px;
+}
+
+img:nth-of-type(40){
+	position: absolute;
+	top: 281px;
+	display: block;
+	left: 587px;
+}
+
+img:nth-of-type(41){
+	position: absolute;
+	top: 353px;
+	display: block;
+}
+
+img:nth-of-type(42){
+	position: absolute;
+	top: 385px;
+	left: 120px;
+	display: block;
+}
+
+img:nth-of-type(43){
+	position: absolute;
+	top: 398px;
+	left: 171px;
+	display: block;
+}
+
+img:nth-of-type(44){
+	position: absolute;
+	top: 378px;
+	left: 226px;
+	display: block;
+}
+
+img:nth-of-type(45){
+	position: absolute;
+	top: 399px;
+	left: 294px;
+	display: block;
+}
+
+img:nth-of-type(46){
+	position: absolute;
+	top: 379px;
+	left: 348px;
+	display: block;
+}
+
+img:nth-of-type(47){
+	position: absolute;
+	top: 370px;
+	left: 409px;
+	display: block;
+}
+
+img:nth-of-type(48){
+	position: absolute;
+	top: 397px;
+	left: 503px;
+	display: block;
+}
+
+img:nth-of-type(49){
+	position: absolute;
+	top: 416px;
+	left: 547px;
+	display: block;
+}
+
+img:nth-of-type(50){
+	position: absolute;
+	top: 385px;
+	left: 587px;
+	display: block;
+}
+
